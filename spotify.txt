@@ -1,0 +1,9 @@
++.video-ak.cdn.spotify.com
+eip-ntt.video-ak.cdn.spotify.com.akahost.net
+image-scdn.cdn-gslb.spotify.com
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-ak-cdn-spotify-com.akamaized.net
+video-akpcw.spotifycdn.com
+video-akpcw.spotifycdn.com.edgesuite.net
+video-akpcw-cdn-spotify-com.akamaized.net
+video-fa.scdn.co
