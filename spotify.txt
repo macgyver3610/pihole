@@ -1,8 +1,8 @@
-eip-ntt.video-ak.cdn.spotify.com.akahost.net
-image-scdn.cdn-gslb.spotify.com
-video-ak.cdn.spotify.com.splitter-eip.akadns.net
-video-ak-cdn-spotify-com.akamaized.net
-video-akpcw.spotifycdn.com
-video-akpcw.spotifycdn.com.edgesuite.net
-video-akpcw-cdn-spotify-com.akamaized.net
-video-fa.scdn.co
+0.0.0.0 eip-ntt.video-ak.cdn.spotify.com.akahost.net
+0.0.0.0 image-scdn.cdn-gslb.spotify.com
+0.0.0.0 video-ak.cdn.spotify.com.splitter-eip.akadns.net
+0.0.0.0 video-ak-cdn-spotify-com.akamaized.net
+0.0.0.0 video-akpcw.spotifycdn.com
+0.0.0.0 video-akpcw.spotifycdn.com.edgesuite.net
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 video-fa.scdn.co
