@@ -1,4 +1,3 @@
-+.video-ak.cdn.spotify.com
 eip-ntt.video-ak.cdn.spotify.com.akahost.net
 image-scdn.cdn-gslb.spotify.com
 video-ak.cdn.spotify.com.splitter-eip.akadns.net
